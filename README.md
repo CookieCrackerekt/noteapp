@@ -13,7 +13,7 @@ Muhammad Rafif Nurul Fikri (17220799)
 
 Kelas : 17.5B.05
 
-## Note
+## note
 
 Untuk Melihat file Makalah dan PPT anda bisa pergi ke folder lib
 
