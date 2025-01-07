@@ -1,6 +1,6 @@
 # noteapp
 
-Noteapp aplikasi ini dibuat untuk memenuhi tugas UAS Mobile Programming
+Projek aplikasi ini dibuat untuk memenuhi tugas UAS Mobile Programming
 Berikut nama anggota kelompok :
 
 Muhammad Hammam Afif (17220759)
